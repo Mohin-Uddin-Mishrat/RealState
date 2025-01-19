@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/static/css/main.50c4f053.css",
-    "main.js": "/static/js/main.65468ccc.js",
-    "static/js/563.88fb9b22.chunk.js": "/static/js/563.88fb9b22.chunk.js",
-    "static/media/pexels-falling4utah-1080721.jpg": "/static/media/pexels-falling4utah-1080721.750be0eec7318e98fe0d.jpg",
-    "static/media/pexels-italo-melo-881954-2379004.jpg": "/static/media/pexels-italo-melo-881954-2379004.98ceacd56f9cfd138fdb.jpg",
-    "static/media/about1.jpg": "/static/media/about1.69a0f145ad82c15607aa.jpg",
-    "static/media/city1.jpg": "/static/media/city1.efc8b5621b0bc97bea23.jpg",
-    "static/media/resort.jpg": "/static/media/resort.0e46ab11e2c9d25341ac.jpg",
-    "static/media/offfice space.jpg": "/static/media/offfice space.785c83c2a62b8e574d32.jpg",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.50c4f053.css.map": "/static/css/main.50c4f053.css.map",
-    "main.65468ccc.js.map": "/static/js/main.65468ccc.js.map",
-    "563.88fb9b22.chunk.js.map": "/static/js/563.88fb9b22.chunk.js.map"
+    "main.css": "/RealState/static/css/main.50c4f053.css",
+    "main.js": "/RealState/static/js/main.a25e2c05.js",
+    "static/js/563.88fb9b22.chunk.js": "/RealState/static/js/563.88fb9b22.chunk.js",
+    "static/media/pexels-falling4utah-1080721.jpg": "/RealState/static/media/pexels-falling4utah-1080721.750be0eec7318e98fe0d.jpg",
+    "static/media/pexels-italo-melo-881954-2379004.jpg": "/RealState/static/media/pexels-italo-melo-881954-2379004.98ceacd56f9cfd138fdb.jpg",
+    "static/media/about1.jpg": "/RealState/static/media/about1.69a0f145ad82c15607aa.jpg",
+    "static/media/city1.jpg": "/RealState/static/media/city1.efc8b5621b0bc97bea23.jpg",
+    "static/media/resort.jpg": "/RealState/static/media/resort.0e46ab11e2c9d25341ac.jpg",
+    "static/media/offfice space.jpg": "/RealState/static/media/offfice space.785c83c2a62b8e574d32.jpg",
+    "static/media/logo.svg": "/RealState/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/RealState/index.html",
+    "main.50c4f053.css.map": "/RealState/static/css/main.50c4f053.css.map",
+    "main.a25e2c05.js.map": "/RealState/static/js/main.a25e2c05.js.map",
+    "563.88fb9b22.chunk.js.map": "/RealState/static/js/563.88fb9b22.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.50c4f053.css",
-    "static/js/main.65468ccc.js"
+    "static/js/main.a25e2c05.js"
   ]
 }
